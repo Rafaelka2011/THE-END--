@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 from telebot import types
 
-bot = telebot.TeleBot("7292791343:AAERxmcgjgd7vzDbXobKAExpiqcVXRZamMI")
+bot = telebot.TeleBot("YOUR_TELEBOT_TOKEN")
 
 
 insert_professions = [
